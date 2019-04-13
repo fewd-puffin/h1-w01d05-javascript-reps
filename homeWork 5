@@ -130,11 +130,12 @@ console.log (timeTwo(num));
 *  Write a `for` loop so that the function outputs all values between 0 and any number passed into the `maxNum` parameter.
    
 ```js
-// function print1(maxNum){
+
+// var maxNum =80
   for(var i=0; i<=maxNum;i++){
     console.log(i);
   }
-}
+  
 ## 7 - Arrays:
 
 *  Create a variable `favoriteMovies` that is equal to an array of your 5 favorite movies:
